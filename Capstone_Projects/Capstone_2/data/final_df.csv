@@ -210,6 +210,7 @@
 324,4,9,Pâtisserie,Frances,F,31,1,2,0,1.0,0,0,0,1,"Légume Canapés
 (Chantenay Carrots, Choux Pastry Tomatoes, and Cauliflower Cheese Scones)",Great British Soap Opera Cake
 327,4,9,Pâtisserie,Kimberley,F,30,0,1,0,1.0,0,1,0,0,Pea Purée TartsCrab and Wasabi ProfiterolesSteamed Buns with Barbecue Chicken,Passion Fruit and Lime Opera Cake
+331,4,9,Pâtisserie,Ruby,F,20,0,4,0,0.0,1,0,0,0,"Beetroot Jelly on Poppy Seed BiscuitsSpinach, Parmesan and Egg TartletsChoux Buns with Goat's Cheese and Caramelised Onions","Chocolate, Almond Praline and Saffron Opera Cake"
 337,4,10,Final,Frances,F,31,0,3,0,0.0,0,1,0,1,Rainbow Picnic Pie,Midsummer Night's Dream Wedding Cake
 340,4,10,Final,Kimberley,F,30,0,1,0,0.0,0,0,1,0,Chicken and Pig Pie,Languages of Love Wedding Cake
 344,4,10,Final,Ruby,F,20,0,2,0,0.0,0,0,1,0,Picnic Basket Pie,"Raspberry, Lemon and Passion Fruit Wedding Cake"
@@ -473,9 +474,11 @@
 745,8,4,Caramel,Julia,F,21,0,9,0,0.0,0,0,0,0,Pecan Salted Caramel Millionaire Shortbreads,Poppy Seed Caramel Cake
 746,8,4,Caramel,Kate,F,29,0,6,0,1.0,0,1,0,0,Salted Bay Caramel Millionaire Shortbreads,Sticky Toffee Apple Caramel Cake
 747,8,4,Caramel,Liam,M,19,1,3,0,1.0,0,0,0,0,Salted Peanut Butter Millionaire Shortbreads,White Layered Ginger Caramel Cake
+749,8,4,Caramel,Sophie,F,33,0,4,0,0.0,0,0,0,1,Jaffa Millionaire Shortbreads,Bird's Nest Caramel Cake
 750,8,4,Caramel,Stacey,F,42,0,1,0,0.0,0,0,0,0,Rum Salted Caramel Millionaire Shortbreads,Chocolate and Coffee Caramel Cake
 751,8,4,Caramel,Steven,M,34,0,7,0,0.0,0,0,0,0,Orange Macadamia Nut Millionaire Shortbreads,Caramel Crown Cake
 752,8,4,Caramel,Tom,M,29,0,5,0,0.0,1,0,1,0,Stem Ginger Caramel Shortbreads,Hummingbird Cake
+753,8,4,Caramel,Yan,F,46,0,8,0,0.0,0,0,0,0,'Lil' Red's Ginger and Nuts' Millionaire Shortbreads,Animals of the Rainforest Caramel Cake
 756,8,5,Pudding,James,M,46,0,7,0,0.0,1,0,1,0,Orange and Ginger Steamed School Pudding,'The Missed Silver Jubilee' Trifle Terrine
 757,8,5,Pudding,Julia,F,21,0,3,0,0.0,1,0,0,0,Orange & Treacle Steamed School Pudding,'Opulent Ornament' Trifle Terrine
 758,8,5,Pudding,Kate,F,29,0,8,0,0.0,0,0,0,0,'Mr Darcy's Steamy Lake Scene' Steamed School Pudding,'My Great Great Nan's' Raspberry Trifle Terrine
