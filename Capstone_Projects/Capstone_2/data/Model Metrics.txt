@@ -1,0 +1,31 @@
+Model Metrics
+
+KNN Model with Cross Validation
+
+#param
+param_grid = {'n_neighbors':np.arange(2,50)}
+
+#model
+knn = KNeighborsClassifier()
+knn_cv= GridSearchCV(knn,param_grid,cv=5)
+
+#fit / pred
+knn_cv.fit(X_res1,y_res1)
+y_pred = knn_cv.predict(X_test_trans)
+
+#best params
+knn_cv.best_params_
+
+#Classification Report
+
+    precision    recall  f1-score   support
+
+           0       0.97      0.90      0.93       174
+           1       0.56      0.81      0.67        27
+
+    accuracy                           0.89       201
+   macro avg       0.77      0.86      0.80       201
+weighted avg       0.91      0.89      0.90       201
+
+#number of features
+139
