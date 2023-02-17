@@ -12,6 +12,7 @@ As ever, this notebook is tiered, meaning you can elect that tier that is right 
 Load relevant libraries
 Load the data
 Explore the data
+
 2. Cleaning, transforming and visualizing
 
 Dropping unwanted columns
@@ -20,6 +21,7 @@ Type conversions
 Making a predictor variable y
 Getting summary statistics for y
 Plotting y
+
 3. Modelling
 
 Decomposition
